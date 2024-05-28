@@ -26,8 +26,9 @@ main {
 
 /* PAGE STYLES */
 .content {
-    background-color: red;
-    border: 1px solid black;
-    height: 300px;
     margin: 10px;
+}
+
+.content img {
+    width: 100%;
 }
