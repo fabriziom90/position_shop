@@ -32,3 +32,16 @@ main {
 .content img {
     width: 100%;
 }
+
+.label {
+    padding: 10px;
+    color: #fff;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
